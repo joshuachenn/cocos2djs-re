@@ -1,0 +1,533 @@
+2021-04-26 22:33:37.317 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:37.318 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:38.801 31624-31636/system_process I/zygote64: Background concurrent copying GC freed 27587(9MB) AllocSpace objects, 12(240KB) LOS objects, 42% free, 13MB/23MB, paused 253us total 106.709ms
+2021-04-26 22:33:40.321 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:40.321 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:43.338 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:43.338 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:43.439 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"7","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447623439,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p7"}****
+2021-04-26 22:33:43.675 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat request Time=========>>:1619447623674
+2021-04-26 22:33:43.676 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 发你爸爸的包:====>> u16Msgid:30053   u16serverType:1 u16serverId:1 u16PackLen:25 U32seq:14 U32playerid:3057947 U32roomid:0
+2021-04-26 22:33:43.676 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:33:43.676 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:33:43.830 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 收包:  u16Msgid:30054  U32serverid:1  U32serverType:1  u16PackLen:45  u32seq:14  U32playerid:3057947  U32roomid:0
+2021-04-26 22:33:43.830 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: [object ArrayBuffer]
+2021-04-26 22:33:43.833 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat end Time=========>>:1619447623832
+2021-04-26 22:33:43.833 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 未注册该消息on_change_delay
+2021-04-26 22:33:44.664 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：updateRoomUserNotify,time=1619447624521,updataTime= 1619447603033
+2021-04-26 22:33:44.667 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/ruzuo
+2021-04-26 22:33:44.667 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****更新用户列表[object Object],[object Object]
+2021-04-26 22:33:44.685 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****处理updateUserInfo******:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":200,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":0,"optHandle":0,"currRankNum":1,"locialSeatNum":1}
+2021-04-26 22:33:44.686 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png,类型:png
+2021-04-26 22:33:44.686 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png
+2021-04-26 22:33:44.688 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5,类型:png
+2021-04-26 22:33:44.694 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:44.694 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":200,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":0,"optHandle":0,"currRankNum":1,"locialSeatNum":1}****
+2021-04-26 22:33:44.694 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=1
+2021-04-26 22:33:44.696 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******updateOtherHdCards-false************MissMiss
+2021-04-26 22:33:44.696 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***--****falsecard=-11
+2021-04-26 22:33:44.698 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***--****falsecard=-11
+2021-04-26 22:33:44.699 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:44.700 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:44.715 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5
+2021-04-26 22:33:44.735 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 后台推送
+2021-04-26 22:33:44.735 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 没有牌局成员子项目
+2021-04-26 22:33:44.736 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png,类型:png
+2021-04-26 22:33:44.737 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png
+2021-04-26 22:33:44.737 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5,类型:png
+2021-04-26 22:33:44.738 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：updateUserProfileNotify,time=1619447624539,updataTime= 1619447603033
+2021-04-26 22:33:44.739 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------updateUserProfileNotify---{"listData":[{"poolingHandNum":14,"winNum":47,"showdownNum":2,"folpRaiseNum":7,"reraiseNum":0,"continuationBet":0,"userId":89065507,"totalHand":59}]}
+2021-04-26 22:33:44.739 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5
+2021-04-26 22:33:46.338 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:46.338 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:49.340 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:49.341 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:50.446 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"7","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447630446,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p8"}****
+2021-04-26 22:33:51.385 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: playButtonSound:::pkw/zh_CN/game/dzpoker/audio/buttonSound/button_click.mp3
+2021-04-26 22:33:51.387 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: kankan yxiao button_click
+2021-04-26 22:33:51.387 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"7","targetId":1619447602106674,"msgType":"C_startGame","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447631387,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"c10"}****
+2021-04-26 22:33:51.483 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********WPGameTableLayer处理通知：upDateRoomNotify
+2021-04-26 22:33:51.485 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_curRoundMaxBetScore********
+2021-04-26 22:33:51.488 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******清理數據-p---*******
+2021-04-26 22:33:51.495 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:33:51.497 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:33:51.506 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:33:51.511 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:33:51.512 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:33:51.519 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****公牌->reset*****
+2021-04-26 22:33:51.520 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****公牌->reset*****
+2021-04-26 22:33:51.520 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=0*****
+2021-04-26 22:33:51.520 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:51.520 5615-5653/com.huangsongyao.custom D/----------: ---------jsInvokeMethod={"invokeName":"UMMobEvent","parameters":{"eventId":"wp_2_5_6_nlh_kangongpai1_show"}}
+2021-04-26 22:33:51.521 5615-5653/com.huangsongyao.custom D/----------------: ---------------------jsInvokeMethod  callback_id=
+2021-04-26 22:33:51.534 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=0*****
+2021-04-26 22:33:51.534 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->updateRoomAllInfo->totalPot=0*****
+2021-04-26 22:33:51.534 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****更新用户列表[object Object],[object Object]
+2021-04-26 22:33:51.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****处理updateUserInfo******:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"juggap","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg","sex":1,"seatNum":1,"gameStatus":1,"userId":89060204,"currentScore":200,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":0,"optHandle":0,"currRankNum":1,"locialSeatNum":0}
+2021-04-26 22:33:51.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg,类型:jpg
+2021-04-26 22:33:51.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg
+2021-04-26 22:33:51.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/da8df309a27d488370a65b9726181971,类型:jpg
+2021-04-26 22:33:51.538 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:51.538 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"juggap","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg","sex":1,"seatNum":1,"gameStatus":1,"userId":89060204,"currentScore":200,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":0,"optHandle":0,"currRankNum":1,"locialSeatNum":0}****
+2021-04-26 22:33:51.539 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=1
+2021-04-26 22:33:51.544 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:33:51.545 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:33:51.546 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:33:51.546 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setHighCards
+2021-04-26 22:33:51.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:33:51.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****处理updateUserInfo******:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":200,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":0,"optHandle":0,"currRankNum":1,"locialSeatNum":1}
+2021-04-26 22:33:51.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png,类型:png
+2021-04-26 22:33:51.548 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png
+2021-04-26 22:33:51.548 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5,类型:png
+2021-04-26 22:33:51.551 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:51.551 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":200,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":0,"optHandle":0,"currRankNum":1,"locialSeatNum":1}****
+2021-04-26 22:33:51.551 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=1
+2021-04-26 22:33:51.551 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******updateOtherHdCards-false************MissMiss
+2021-04-26 22:33:51.551 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***--****falsecard=-11
+2021-04-26 22:33:51.552 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***--****falsecard=-11
+2021-04-26 22:33:51.554 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:51.554 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:51.555 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：bankerChangeNotify,time=1619447631511,updataTime= 1619447603033
+2021-04-26 22:33:51.556 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:33:51.556 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++D位--显示++setSBorBB+++++++
+2021-04-26 22:33:51.556 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++true
+2021-04-26 22:33:51.558 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/da8df309a27d488370a65b9726181971
+2021-04-26 22:33:51.559 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5
+2021-04-26 22:33:51.571 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：waitHandsNotify,time=1619447631513,updataTime= 1619447603033
+2021-04-26 22:33:51.575 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：actionNotify,time=1619447631519,updataTime= 1619447603033
+2021-04-26 22:33:51.575 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->userActionNotify->WPGameData.totalPot=3*****
+2021-04-26 22:33:51.575 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------userAction-_selfSeatScore赋值:{"actionType":"BIG_BLIND","seatScore":2,"actionScore":2,"userId":89060204,"seatNum":1,"currentScore":198,"isShowAllin":0,"sex":1}
+2021-04-26 22:33:51.575 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------userAction-_selfSeatScore赋值:{"actionType":"BIG_BLIND","seatScore":2,"actionScore":2,"userId":89060204,"seatNum":1,"currentScore":198,"isShowAllin":0,"sex":1}
+2021-04-26 22:33:51.575 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:33:51.576 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/xiazhuchouma
+2021-04-26 22:33:51.579 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/xiazhuchouma
+2021-04-26 22:33:51.581 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: **********处理事件：dealNotify,time=1619447631523,updataTime= 1619447603033
+2021-04-26 22:33:51.581 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:51.581 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:51.583 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:51.583 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:51.586 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：roundChangeNotify,time=1619447631529,updataTime= 1619447603033
+2021-04-26 22:33:51.587 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->roundChangeNotify->WPGameData.totalPot=3*****
+2021-04-26 22:33:51.588 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:33:51.588 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:33:51.588 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:33:51.590 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：roundChangeNotify,time=1619447631536,updataTime= 1619447603033
+2021-04-26 22:33:51.591 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->roundChangeNotify->WPGameData.totalPot=3*****
+2021-04-26 22:33:51.591 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:33:51.591 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:33:51.591 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:33:51.805 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****2
+2021-04-26 22:33:51.827 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:198*****
+2021-04-26 22:33:51.827 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:33:51.828 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:33:51.828 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****1
+2021-04-26 22:33:51.840 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:199*****
+2021-04-26 22:33:51.841 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:33:51.841 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:33:51.841 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****2
+2021-04-26 22:33:51.844 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:198*****
+2021-04-26 22:33:51.844 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:33:51.844 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:33:51.845 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****1
+2021-04-26 22:33:51.848 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:199*****
+2021-04-26 22:33:51.848 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:33:51.848 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:33:52.006 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****userId=89060204,handCards=[305,208]*****
+2021-04-26 22:33:52.023 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:52.023 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:52.024 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:33:52.107 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:52.107 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:52.112 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:33:52.190 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:52.190 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:52.192 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:33:52.291 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******显示翻牌动画*******305
+2021-04-26 22:33:52.292 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:52.292 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:52.298 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:33:52.341 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:52.341 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:52.476 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******显示翻牌动画*******208
+2021-04-26 22:33:52.576 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack start
+2021-04-26 22:33:52.577 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: Error
+        at CCClass.userOptNotify (src/project.js:324427:13)
+        at src/project.js:324379:135
+        at CCClass.<anonymous> (src/project.js:325550:6)
+        at f.55.d.trigger (src/cocos2d-jsb.js:9984:16)
+        at f.55.d.update (src/cocos2d-jsb.js:9964:6)
+        at 55.cc.Scheduler.update (src/cocos2d-jsb.js:10069:16)
+        at 50.cc.Director.mainLoop (src/cocos2d-jsb.js:8069:17)
+        at t (src/cocos2d-jsb.js:8300:3)
+        at tick (jsb-adapter/jsb-builtin.js:2001:13)
+2021-04-26 22:33:52.577 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack end
+2021-04-26 22:33:52.578 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***1用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[],"userId":89065507,"minRaiseScore":3,"maxRaiseScore":198,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:33:52.578 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***1用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[],"userId":89065507,"minRaiseScore":3,"maxRaiseScore":198,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:33:52.579 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***2用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[],"userId":89065507,"minRaiseScore":3,"maxRaiseScore":198,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:33:52.579 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***2用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[],"userId":89065507,"minRaiseScore":3,"maxRaiseScore":198,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:33:52.627 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------发完牌后--刷新下用户手牌------------
+2021-04-26 22:33:52.627 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:52.627 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:52.627 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***showCard--****card=-11
+2021-04-26 22:33:52.628 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***showCard--****card=-11
+2021-04-26 22:33:52.630 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******发牌完成-刷新牌位置*****89065507
+2021-04-26 22:33:52.630 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:33:52.631 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:33:52.632 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:33:52.632 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setGameTypeInf
+2021-04-26 22:33:52.638 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:33:52.653 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****seatForPerOpt->*curRoundMaxBetScore=2**this._selfSeatScore=2,,this._lastCallScore=0******
+2021-04-26 22:33:52.653 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****seatForPerOpt->*curRoundMaxBetScore=2**this._selfSeatScore=2,,this._lastCallScore=0******
+2021-04-26 22:33:52.673 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide****showPreCheck**
+2021-04-26 22:33:53.383 5615-5894/com.huangsongyao.custom D/TagAliasOperatorHelper: -----------------action - onAliasOperatorResult, sequence:2,alias:89060204
+2021-04-26 22:33:53.383 5615-5894/com.huangsongyao.custom D/-------------------: --------------JPushMessage{alias='89060204', tags=null, checkTag='null', errorCode=6002, tagCheckStateResult=false, isTagCheckOperator=false, sequence=2, mobileNumber=null}
+2021-04-26 22:33:55.346 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:55.346 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:55.680 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat request Time=========>>:1619447635680
+2021-04-26 22:33:55.681 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 发你爸爸的包:====>> u16Msgid:30053   u16serverType:1 u16serverId:1 u16PackLen:25 U32seq:15 U32playerid:3057947 U32roomid:0
+2021-04-26 22:33:55.681 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:33:55.681 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:33:55.816 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 收包:  u16Msgid:30054  U32serverid:1  U32serverType:1  u16PackLen:41  u32seq:15  U32playerid:3057947  U32roomid:0
+2021-04-26 22:33:55.816 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: [object ArrayBuffer]
+2021-04-26 22:33:55.817 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat end Time=========>>:1619447635817
+2021-04-26 22:33:55.817 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 未注册该消息on_change_delay
+2021-04-26 22:33:57.442 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"2","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447637442,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p9"}****
+2021-04-26 22:33:58.349 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:33:58.349 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:33:59.395 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [JPushDataAction] Action - onActionRun
+2021-04-26 22:33:59.395 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [PushServiceCore] bundle:Bundle[{action=com.huangsongyao.custom.intent.ALIAS_TAGS, proto_type=2, seq_id=28623, tags=null, alias=89060204, protoaction_type=2, sdktype=JPUSH}]
+2021-04-26 22:33:59.396 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [PushServiceCore] Action - handleServiceAction - action:com.huangsongyao.custom.intent.ALIAS_TAGS
+2021-04-26 22:33:59.408 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [TagAliasHelper] tagalias:[TagaliasRequest] - appKey:2625a8bc3948a56431f83acf, action:{"platform":"a","op":"set","alias":"89060204"} - [Request] - [JHead] - len:0, version:1, command:29, rid:28623, sid:0, juid:0
+2021-04-26 22:33:59.410 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [JPushRequestHelper] Action - sendJPushRequest, timeout:20000, threadId:1147
+2021-04-26 22:33:59.424 5636-5698/com.huangsongyao.custom D/JIGUANG-JCore: [RequestCacheManager] Action - sendRequestInternal - connection:0, timeout:20000,sdkType:JPUSH, threadId:1148
+2021-04-26 22:33:59.439 5636-5698/com.huangsongyao.custom W/JIGUANG-JCore: [RequestCacheManager] sendCommandWithLoggedIn failed: tcp not connect
+2021-04-26 22:34:01.350 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:01.351 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:01.666 31624-3756/system_process D/WificondControl: Scan result ready event
+2021-04-26 22:34:01.671 31624-31725/system_process D/WificondScannerImpl: Filtering out 3 scan results.
+2021-04-26 22:34:04.352 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:04.352 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:04.452 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"2","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447644452,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p10"}****
+2021-04-26 22:34:06.025 31624-31636/system_process I/zygote64: Background concurrent copying GC freed 20856(10MB) AllocSpace objects, 21(420KB) LOS objects, 42% free, 13MB/23MB, paused 429us total 123.478ms
+2021-04-26 22:34:07.353 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:07.354 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:07.489 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：actionNotify,time=1619447647320,updataTime= 1619447603033
+2021-04-26 22:34:07.489 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->userActionNotify->WPGameData.totalPot=3*****
+2021-04-26 22:34:07.501 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ->---------setActionState----->头像变暗
+2021-04-26 22:34:07.503 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/cn/fold_girl
+2021-04-26 22:34:07.504 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:34:07.504 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setGameTypeInf
+2021-04-26 22:34:07.508 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:34:07.509 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：roundChangeNotify,time=1619447647329,updataTime= 1619447603033
+2021-04-26 22:34:07.511 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->roundChangeNotify->WPGameData.totalPot=3*****
+2021-04-26 22:34:07.511 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------roundChangeNotify-_selfSeatScore-清空------
+2021-04-26 22:34:07.511 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:34:07.511 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:07.512 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------roundChangeNotify-_selfSeatScore-清空------
+2021-04-26 22:34:07.512 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:34:07.519 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：playResultNotify,time=1619447647340
+2021-04-26 22:34:07.520 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:07.521 5615-5653/com.huangsongyao.custom D/----------: ---------jsInvokeMethod={"invokeName":"UMMobEvent","parameters":{"eventId":"wp_2_5_6_nlh_kangongpai1_show"}}
+2021-04-26 22:34:07.521 5615-5653/com.huangsongyao.custom D/----------------: ---------------------jsInvokeMethod  callback_id=
+2021-04-26 22:34:07.690 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat request Time=========>>:1619447647690
+2021-04-26 22:34:07.692 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 发你爸爸的包:====>> u16Msgid:30053   u16serverType:1 u16serverId:1 u16PackLen:25 U32seq:16 U32playerid:3057947 U32roomid:0
+2021-04-26 22:34:07.692 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:34:07.692 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:34:07.840 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 收包:  u16Msgid:30054  U32serverid:1  U32serverType:1  u16PackLen:44  u32seq:16  U32playerid:3057947  U32roomid:0
+2021-04-26 22:34:07.840 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: [object ArrayBuffer]
+2021-04-26 22:34:07.841 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat end Time=========>>:1619447647840
+2021-04-26 22:34:07.841 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 未注册该消息on_change_delay
+2021-04-26 22:34:07.858 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:34:08.161 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:08.278 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:08.300 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:34:08.300 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********筹码入池*********
+2021-04-26 22:34:08.300 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:08.303 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:34:08.305 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********筹码入池*********
+2021-04-26 22:34:08.308 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/ying
+2021-04-26 22:34:08.346 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:08.351 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:08.486 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++显示了YOU WIN+++++++++++++++
+2021-04-26 22:34:08.698 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/shouchouma
+2021-04-26 22:34:09.399 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:09.400 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=0*****
+2021-04-26 22:34:09.467 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****resultData-lblScore:201*********
+2021-04-26 22:34:10.356 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:10.356 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:11.446 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"3","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447651446,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p11"}****
+2021-04-26 22:34:12.326 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 后台推送
+2021-04-26 22:34:12.328 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_curRoundMaxBetScore********
+2021-04-26 22:34:12.329 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******清理數據-p---*******
+2021-04-26 22:34:12.340 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.344 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.358 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:12.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.365 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.382 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****公牌->reset*****
+2021-04-26 22:34:12.388 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****公牌->reset*****
+2021-04-26 22:34:12.388 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=0*****
+2021-04-26 22:34:12.388 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:12.389 5615-5653/com.huangsongyao.custom D/----------: ---------jsInvokeMethod={"invokeName":"UMMobEvent","parameters":{"eventId":"wp_2_5_6_nlh_kangongpai1_show"}}
+2021-04-26 22:34:12.389 5615-5653/com.huangsongyao.custom D/----------------: ---------------------jsInvokeMethod  callback_id=
+2021-04-26 22:34:12.411 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********WPGameTableLayer处理通知：upDateRoomNotify
+2021-04-26 22:34:12.412 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_curRoundMaxBetScore********
+2021-04-26 22:34:12.412 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******清理數據-p---*******
+2021-04-26 22:34:12.417 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.419 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.427 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:12.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.434 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.440 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****公牌->reset*****
+2021-04-26 22:34:12.440 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****公牌->reset*****
+2021-04-26 22:34:12.441 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=0*****
+2021-04-26 22:34:12.441 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:12.441 5615-5653/com.huangsongyao.custom D/----------: ---------jsInvokeMethod={"invokeName":"UMMobEvent","parameters":{"eventId":"wp_2_5_6_nlh_kangongpai1_show"}}
+2021-04-26 22:34:12.442 5615-5653/com.huangsongyao.custom D/----------------: ---------------------jsInvokeMethod  callback_id=
+2021-04-26 22:34:12.454 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=0*****
+2021-04-26 22:34:12.455 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->updateRoomAllInfo->totalPot=0*****
+2021-04-26 22:34:12.455 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****更新用户列表[object Object],[object Object]
+2021-04-26 22:34:12.455 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****处理updateUserInfo******:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"juggap","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg","sex":1,"seatNum":1,"gameStatus":2,"userId":89060204,"currentScore":201,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":1,"optHandle":3,"currRankNum":1,"locialSeatNum":0}
+2021-04-26 22:34:12.455 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg,类型:jpg
+2021-04-26 22:34:12.455 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg
+2021-04-26 22:34:12.456 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/da8df309a27d488370a65b9726181971,类型:jpg
+2021-04-26 22:34:12.458 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:34:12.459 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"juggap","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg","sex":1,"seatNum":1,"gameStatus":2,"userId":89060204,"currentScore":201,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":1,"optHandle":3,"currRankNum":1,"locialSeatNum":0}****
+2021-04-26 22:34:12.459 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:12.464 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.465 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***reset--****card=-11
+2021-04-26 22:34:12.466 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:34:12.467 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setHighCards
+2021-04-26 22:34:12.467 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:12.467 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****处理updateUserInfo******:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":199,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":1,"optHandle":4,"currRankNum":1,"locialSeatNum":1}
+2021-04-26 22:34:12.467 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png,类型:png
+2021-04-26 22:34:12.468 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png
+2021-04-26 22:34:12.468 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5,类型:png
+2021-04-26 22:34:12.471 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++true
+2021-04-26 22:34:12.471 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":199,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":1,"optHandle":4,"currRankNum":1,"locialSeatNum":1}****
+2021-04-26 22:34:12.471 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=1
+2021-04-26 22:34:12.472 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******updateOtherHdCards-false************MissMiss
+2021-04-26 22:34:12.472 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***--****falsecard=-11
+2021-04-26 22:34:12.473 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***--****falsecard=-11
+2021-04-26 22:34:12.475 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:34:12.475 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++D位--显示++setSBorBB+++++++
+2021-04-26 22:34:12.475 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++true
+2021-04-26 22:34:12.482 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ws传过来数据了了了了了了了
+2021-04-26 22:34:12.482 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 当前渲染的历史记录>>>>>>>>>>>>>>>>>>>>>>
+2021-04-26 22:34:12.510 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg,类型:jpg
+2021-04-26 22:34:12.510 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg
+2021-04-26 22:34:12.510 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/da8df309a27d488370a65b9726181971,类型:jpg
+2021-04-26 22:34:12.518 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载开始:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png,类型:png
+2021-04-26 22:34:12.518 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 使用缓存:https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png
+2021-04-26 22:34:12.518 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源开始:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5,类型:png
+2021-04-26 22:34:12.522 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***********************历史记录true
+2021-04-26 22:34:12.522 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********************{"sitUserList":[{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"juggap","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/1619155535920@ci_fb193af5-4fd4-48fb-97ba-abf83d2e1b47.jpg","sex":1,"seatNum":1,"gameStatus":2,"userId":89060204,"currentScore":201,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":1,"optHandle":3,"currRankNum":1,"locialSeatNum":0},{"handCards":[],"publicCards":[],"maxCardCombination":[],"publicHandCards":[],"nickname":"MissMiss","avatar":"https://wepoker.oss-cn-hangzhou.aliyuncs.com/system_image/head_180.png","sex":2,"seatNum":2,"gameStatus":1,"userId":89065507,"currentScore":199,"buyScore":200,"inRoomStatus":1,"isOnline":1,"countDown":0,"preOptType":0,"playBoutNum":1,"optHandle":4,"currRankNum":1,"locialSeatNum":1}],"publicCards":[],"potList":[],"oldPublicCards":[],"highPublicCards":[],"optSeatNum":0,"roomId":1619447602106674,"roomNumber":447151,"title":"juggap的牌局"
+2021-04-26 22:34:12.523 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：bankerChangeNotify,time=1619447652353,updataTime= 1619447603033
+2021-04-26 22:34:12.524 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++D位--显示++setSBorBB+++++++
+2021-04-26 22:34:12.524 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++true
+2021-04-26 22:34:12.525 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: +++++++++++X位--显示++setXB+++++++false
+2021-04-26 22:34:12.526 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：waitHandsNotify,time=1619447652355,updataTime= 1619447603033
+2021-04-26 22:34:12.529 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：actionNotify,time=1619447652364,updataTime= 1619447603033
+2021-04-26 22:34:12.529 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->userActionNotify->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.529 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------userAction-_selfSeatScore赋值:{"actionType":"SMALL_BLIND","seatScore":1,"actionScore":1,"userId":89060204,"seatNum":1,"currentScore":200,"isShowAllin":0,"sex":1}
+2021-04-26 22:34:12.529 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------userAction-_selfSeatScore赋值:{"actionType":"SMALL_BLIND","seatScore":1,"actionScore":1,"userId":89060204,"seatNum":1,"currentScore":200,"isShowAllin":0,"sex":1}
+2021-04-26 22:34:12.529 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:12.531 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/xiazhuchouma
+2021-04-26 22:34:12.533 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/xiazhuchouma
+2021-04-26 22:34:12.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: **********处理事件：dealNotify,time=1619447652370,updataTime= 1619447603033
+2021-04-26 22:34:12.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:12.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:12.536 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:12.537 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:12.539 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：roundChangeNotify,time=1619447652378,updataTime= 1619447603033
+2021-04-26 22:34:12.541 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->roundChangeNotify->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.541 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:34:12.541 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:12.541 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:34:12.543 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：roundChangeNotify,time=1619447652385,updataTime= 1619447603033
+2021-04-26 22:34:12.544 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->roundChangeNotify->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.544 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:34:12.544 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:12.544 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****++++++****清空_lastRoundMaxBetScore********
+2021-04-26 22:34:12.546 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/da8df309a27d488370a65b9726181971
+2021-04-26 22:34:12.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5
+2021-04-26 22:34:12.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/da8df309a27d488370a65b9726181971
+2021-04-26 22:34:12.548 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: CacheUtils -> 加载资源成功:/data/user/0/com.huangsongyao.custom/files/FilesCache/fc5fe3d6a7d7b74502a9d505e944cbe5
+2021-04-26 22:34:12.756 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****1
+2021-04-26 22:34:12.775 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:200*****
+2021-04-26 22:34:12.776 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:12.776 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.776 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****2
+2021-04-26 22:34:12.791 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:197*****
+2021-04-26 22:34:12.791 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:12.791 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.792 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****1
+2021-04-26 22:34:12.796 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:200*****
+2021-04-26 22:34:12.796 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:12.797 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.797 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****2
+2021-04-26 22:34:12.801 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:197*****
+2021-04-26 22:34:12.801 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:12.801 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=3*****
+2021-04-26 22:34:12.956 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****userId=89060204,handCards=[113,203]*****
+2021-04-26 22:34:12.973 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:12.973 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:12.977 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:34:13.057 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:13.058 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:13.059 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:34:13.141 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:13.141 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:13.149 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:34:13.176 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******显示翻牌动画*******113
+2021-04-26 22:34:13.247 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:13.248 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:13.254 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/fashoupai1
+2021-04-26 22:34:13.330 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ******显示翻牌动画*******203
+2021-04-26 22:34:13.358 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:13.358 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:13.545 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack start
+2021-04-26 22:34:13.546 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: Error
+        at CCClass.userOptNotify (src/project.js:324427:13)
+        at src/project.js:324379:111
+        at CCClass.<anonymous> (src/project.js:325550:6)
+        at f.55.d.trigger (src/cocos2d-jsb.js:9984:16)
+        at f.55.d.update (src/cocos2d-jsb.js:9964:6)
+        at 55.cc.Scheduler.update (src/cocos2d-jsb.js:10069:16)
+        at 50.cc.Director.mainLoop (src/cocos2d-jsb.js:8069:17)
+        at t (src/cocos2d-jsb.js:8300:3)
+        at tick (jsb-adapter/jsb-builtin.js:2001:13)
+2021-04-26 22:34:13.546 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack end
+2021-04-26 22:34:13.546 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***1用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[113,203],"userId":89060204,"minRaiseScore":3,"maxRaiseScore":199,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"cardType":"HIGH_CARD","isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:13.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***1用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[113,203],"userId":89060204,"minRaiseScore":3,"maxRaiseScore":199,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"cardType":"HIGH_CARD","isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:13.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***2用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[113,203],"userId":89060204,"minRaiseScore":3,"maxRaiseScore":199,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"cardType":"HIGH_CARD","isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:13.547 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***2用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CALL"],"handCards":[113,203],"userId":89060204,"minRaiseScore":3,"maxRaiseScore":199,"callScore":1,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":1,"prolongCfg":{"btnType":0,"needDiamond":0,"canNextProlong":1},"cardType":"HIGH_CARD","isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:13.567 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/on_turn
+2021-04-26 22:34:13.568 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:13.569 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:13.569 5615-5653/com.huangsongyao.custom D/----------: ---------jsInvokeMethod={"invokeName":"UMMobEvent","parameters":{"eventId":"wp_2_5_6_nlh_yanshi2_show"}}
+2021-04-26 22:34:13.570 5615-5653/com.huangsongyao.custom D/----------------: ---------------------jsInvokeMethod  callback_id=
+2021-04-26 22:34:14.025 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:34:14.025 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setGameTypeInf
+2021-04-26 22:34:14.029 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:34:14.058 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------发完牌后--刷新下用户手牌------------
+2021-04-26 22:34:14.058 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:14.059 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:14.060 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:34:14.060 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setGameTypeInf
+2021-04-26 22:34:14.065 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:34:14.065 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****setGameStatus:{"gameStatus":2}****
+2021-04-26 22:34:14.065 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ------------gameStatus=2
+2021-04-26 22:34:14.065 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***showCard--****card=-11
+2021-04-26 22:34:14.067 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****updateOtherHdCards***showCard--****card=-11
+2021-04-26 22:34:14.068 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******发牌完成-刷新牌位置*****89065507
+2021-04-26 22:34:16.362 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:16.363 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:18.442 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"6","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447658442,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p12"}****
+2021-04-26 22:34:19.364 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:19.365 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:19.437 5615-5894/com.huangsongyao.custom D/TagAliasOperatorHelper: -----------------action - onAliasOperatorResult, sequence:2,alias:89060204
+2021-04-26 22:34:19.438 5615-5894/com.huangsongyao.custom D/-------------------: --------------JPushMessage{alias='89060204', tags=null, checkTag='null', errorCode=6002, tagCheckStateResult=false, isTagCheckOperator=false, sequence=2, mobileNumber=null}
+2021-04-26 22:34:19.569 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/half_time
+2021-04-26 22:34:19.573 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:19.573 5615-5653/com.huangsongyao.custom D/----------: ---------jsInvokeMethod={"invokeName":"iphoneShake"}
+2021-04-26 22:34:19.574 5615-5653/com.huangsongyao.custom D/----------------: ---------------------jsInvokeMethod  callback_id=
+2021-04-26 22:34:19.630 668-668/? E/VibratorService: Setting amplitude  to: 3596
+2021-04-26 22:34:19.700 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat request Time=========>>:1619447659700
+2021-04-26 22:34:19.701 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 发你爸爸的包:====>> u16Msgid:30053   u16serverType:1 u16serverId:1 u16PackLen:25 U32seq:17 U32playerid:3057947 U32roomid:0
+2021-04-26 22:34:19.701 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:34:19.701 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: =====> wSocket.readyState  1111= 1
+2021-04-26 22:34:19.918 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 收包:  u16Msgid:30054  U32serverid:1  U32serverType:1  u16PackLen:44  u32seq:17  U32playerid:3057947  U32roomid:0
+2021-04-26 22:34:19.918 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: [object ArrayBuffer]
+2021-04-26 22:34:19.918 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: WorldHeartBeat end Time=========>>:1619447659918
+2021-04-26 22:34:19.919 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: 未注册该消息on_change_delay
+2021-04-26 22:34:22.369 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:22.369 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:22.574 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/time
+2021-04-26 22:34:22.603 5615-5842/com.huangsongyao.custom I/AudioDecoderMp3: Original audio info: numChannels: 2, sampleRate: 32000, bitPerSample: 16, containerSize: 16, channelMask: 3, endianness: 2, numFrames: 20736, duration: 0.648000, total size: 82944
+2021-04-26 22:34:22.603 5615-5842/com.huangsongyao.custom D/AudioDecoder: Decoding (@assets/res/raw-assets/7f/7fe32bf6-6608-4e87-901f-c67a48b8e7d6.mp3) to pcm data wasted 4.556000ms
+2021-04-26 22:34:22.606 5615-5842/com.huangsongyao.custom D/AudioDecoder: Resampling (@assets/res/raw-assets/7f/7fe32bf6-6608-4e87-901f-c67a48b8e7d6.mp3) wasted 2.668000ms
+2021-04-26 22:34:22.606 5615-5842/com.huangsongyao.custom I/AudioDecoder: Audio channel count is 2, no need to interleave
+2021-04-26 22:34:22.606 5615-5842/com.huangsongyao.custom D/AudioDecoder: Interleave (@assets/res/raw-assets/7f/7fe32bf6-6608-4e87-901f-c67a48b8e7d6.mp3) wasted 0.177000ms
+2021-04-26 22:34:24.300 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******click->call*******
+2021-04-26 22:34:24.300 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"6","targetId":1619447602106674,"msgType":"WP_call","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447664300,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"c11"}****
+2021-04-26 22:34:24.302 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******useInfo-setAction->callPersonNum = 1************
+2021-04-26 22:34:24.304 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/xiazhuchouma
+2021-04-26 22:34:24.316 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/cn/call_boy
+2021-04-26 22:34:24.321 5615-5842/com.huangsongyao.custom I/AudioDecoderMp3: Original audio info: numChannels: 2, sampleRate: 32000, bitPerSample: 16, containerSize: 16, channelMask: 3, endianness: 2, numFrames: 25344, duration: 0.792000, total size: 101376
+2021-04-26 22:34:24.321 5615-5842/com.huangsongyao.custom D/AudioDecoder: Decoding (@assets/res/raw-assets/85/856eb1d2-50d7-41e9-86d4-4480cb5499fd.mp3) to pcm data wasted 2.848000ms
+2021-04-26 22:34:24.322 5615-5842/com.huangsongyao.custom D/AudioDecoder: Resampling (@assets/res/raw-assets/85/856eb1d2-50d7-41e9-86d4-4480cb5499fd.mp3) wasted 1.291000ms
+2021-04-26 22:34:24.322 5615-5842/com.huangsongyao.custom I/AudioDecoder: Audio channel count is 2, no need to interleave
+2021-04-26 22:34:24.322 5615-5842/com.huangsongyao.custom D/AudioDecoder: Interleave (@assets/res/raw-assets/85/856eb1d2-50d7-41e9-86d4-4480cb5499fd.mp3) wasted 0.100000ms
+2021-04-26 22:34:24.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******click->call*回调******
+2021-04-26 22:34:24.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：actionNotify,time=1619447664395,updataTime= 1619447603033
+2021-04-26 22:34:24.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->userActionNotify->WPGameData.totalPot=4*****
+2021-04-26 22:34:24.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------userAction-_selfSeatScore赋值:{"actionType":"CALL","seatScore":2,"actionScore":1,"userId":89060204,"seatNum":1,"currentScore":199,"isShowAllin":0,"sex":1}
+2021-04-26 22:34:24.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: -------userAction-_selfSeatScore赋值:{"actionType":"CALL","seatScore":2,"actionScore":1,"userId":89060204,"seatNum":1,"currentScore":199,"isShowAllin":0,"sex":1}
+2021-04-26 22:34:24.364 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide**reset**
+2021-04-26 22:34:24.365 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******useInfo-setAction->callPersonNum = 2************
+2021-04-26 22:34:24.371 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:24.372 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=4*****
+2021-04-26 22:34:24.375 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:34:24.375 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setGameTypeInf
+2021-04-26 22:34:24.380 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:34:24.431 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua getUserData msgBody:
+2021-04-26 22:34:24.431 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：userOptNotify,time=1619447664457,updataTime= 1619447603033
+2021-04-26 22:34:24.432 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack start
+2021-04-26 22:34:24.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: Error
+        at CCClass.userOptNotify (src/project.js:324427:13)
+        at src/project.js:261883:14
+        at 50.cc.Director.214.u.invoke (src/cocos2d-jsb.js:29131:32)
+        at 50.cc.Director.133.a.dispatchEvent (src/cocos2d-jsb.js:20999:6)
+        at Object._dispatchMessageToCC (src/project.js:166176:13)
+        at src/project.js:166066:3
+        at Object.HMFUtils.decodeProtoMsg (src/project.js:171392:6)
+        at WebSocket.webSocket.onmessage (src/project.js:166056:10)
+2021-04-26 22:34:24.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack end
+2021-04-26 22:34:24.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***1用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CHECK"],"handCards":[],"userId":89065507,"minRaiseScore":2,"maxRaiseScore":195,"callScore":0,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":2,"prolongCfg":{"btnType":1,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:24.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***1用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CHECK"],"handCards":[],"userId":89065507,"minRaiseScore":2,"maxRaiseScore":195,"callScore":0,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":2,"prolongCfg":{"btnType":1,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:24.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***2用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CHECK"],"handCards":[],"userId":89065507,"minRaiseScore":2,"maxRaiseScore":195,"callScore":0,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":2,"prolongCfg":{"btnType":1,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:24.433 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ***2用户操作通知（弃牌，加注，跟注):{"canActionList":["FOLD","RAISE","ALL_IN","CHECK"],"handCards":[],"userId":89065507,"minRaiseScore":2,"maxRaiseScore":195,"callScore":0,"countDown":12,"totalCountDown":12,"lastBet":2,"seatScore":2,"prolongCfg":{"btnType":1,"needDiamond":0,"canNextProlong":1},"isCanRaise":1,"openRetainSeat":false}
+2021-04-26 22:34:24.499 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****seatForPerOpt->*curRoundMaxBetScore=2**this._selfSeatScore=2,,this._lastCallScore=0******
+2021-04-26 22:34:24.499 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****seatForPerOpt->*curRoundMaxBetScore=2**this._selfSeatScore=2,,this._lastCallScore=0******
+2021-04-26 22:34:24.518 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ++++++++++preOpt.js*****btnPreCall***hide****showPreCheck**
+2021-04-26 22:34:24.535 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****2
+2021-04-26 22:34:24.539 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:199*****
+2021-04-26 22:34:24.539 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:24.539 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=4*****
+2021-04-26 22:34:24.540 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****动画回调**跟新seatScore*****2
+2021-04-26 22:34:24.543 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ****currentScore:199*****
+2021-04-26 22:34:24.543 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *******本地刷新-筹码堆******
+2021-04-26 22:34:24.543 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->setTotalPot->WPGameData.totalPot=4*****
+2021-04-26 22:34:25.371 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:25.371 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:25.437 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****发送webSocket消息:{"optHandle":"6","targetId":1619447602106674,"msgType":"PongMessage","msgBody":{},"sign":"","stubInfo":{"sendTime":1619447665437,"userId":89060204,"sessionToken":"fwOReITqiZSARAGa","version":"5.6.6"},"callbackId":"p13"}****
+2021-04-26 22:34:25.456 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [JPushDataAction] Action - onActionRun
+2021-04-26 22:34:25.456 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [PushServiceCore] bundle:Bundle[{action=com.huangsongyao.custom.intent.ALIAS_TAGS, proto_type=2, seq_id=28625, tags=null, alias=89060204, protoaction_type=2, sdktype=JPUSH}]
+2021-04-26 22:34:25.456 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [PushServiceCore] Action - handleServiceAction - action:com.huangsongyao.custom.intent.ALIAS_TAGS
+2021-04-26 22:34:25.461 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [TagAliasHelper] tagalias:[TagaliasRequest] - appKey:2625a8bc3948a56431f83acf, action:{"platform":"a","op":"set","alias":"89060204"} - [Request] - [JHead] - len:0, version:1, command:29, rid:28625, sid:0, juid:0
+2021-04-26 22:34:25.461 5636-5696/com.huangsongyao.custom D/JIGUANG-JPush: [JPushRequestHelper] Action - sendJPushRequest, timeout:20000, threadId:1147
+2021-04-26 22:34:25.469 5636-5698/com.huangsongyao.custom D/JIGUANG-JCore: [RequestCacheManager] Action - sendRequestInternal - connection:0, timeout:20000,sdkType:JPUSH, threadId:1148
+2021-04-26 22:34:25.477 5636-5698/com.huangsongyao.custom W/JIGUANG-JCore: [RequestCacheManager] sendCommandWithLoggedIn failed: tcp not connect
+2021-04-26 22:34:28.374 5615-5653/com.huangsongyao.custom D/JniHelper: JniHelper::getJavaVM(), pthread_self() = -735254160
+2021-04-26 22:34:28.374 5615-5653/com.huangsongyao.custom D/NativeEvent: objName = org.cocos2dx.javascript.DeviceMgr; methodName = isNetworkAvailable; resKey = ; param = {}
+2021-04-26 22:34:28.912 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：actionNotify,time=1619447668857,updataTime= 1619447603033
+2021-04-26 22:34:28.912 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****总底池->userActionNotify->WPGameData.totalPot=6*****
+2021-04-26 22:34:28.914 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/xiazhuchouma
+2021-04-26 22:34:28.936 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: *****audioUrl*******audio/cn/raise_girl
+2021-04-26 22:34:28.939 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCards
+2021-04-26 22:34:28.939 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setGameTypeInf
+2021-04-26 22:34:28.948 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua [handCards] setCardType
+2021-04-26 22:34:28.954 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua getUserData msgBody:
+2021-04-26 22:34:28.954 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: ********处理事件：userOptNotify,time=1619447668863,updataTime= 1619447603033
+2021-04-26 22:34:28.956 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack start
+2021-04-26 22:34:28.957 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: Error
+        at CCClass.userOptNotify (src/project.js:324427:13)
+        at src/project.js:261883:14
+        at 50.cc.Director.214.u.invoke (src/cocos2d-jsb.js:29131:32)
+        at 50.cc.Director.133.a.dispatchEvent (src/cocos2d-jsb.js:20999:6)
+        at Object._dispatchMessageToCC (src/project.js:166176:13)
+        at src/project.js:166066:3
+        at Object.HMFUtils.decodeProtoMsg (src/project.js:171392:6)
+        at WebSocket.webSocket.onmessage (src/project.js:166056:10)
+2021-04-26 22:34:28.957 5615-5653/com.huangsongyao.custom D/jswrapper: JS: [DEBUG]: joshua userOptNotify stack end
